@@ -1,30 +1,30 @@
-## Olá! Me chamo Robinho.
 
-<div>
-  <a href="https://github.com/robinhosz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robinhosz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinhosz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## Hey 👋, I'm [Robinhosz!](https://github.com/robinhosz/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fireesz)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/robinhosz/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/#)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=robinhosz.robinhosz&style=flat-square&color=0088cc)
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
   
-  <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/90/21/3b/90213b075aa367086bfe687750827baf.gif">
-    
-</div>
-
-  <div> 
+ <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
  
-  <a href="https://www.instagram.com/khalifazayed_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  </a>
+ ## Talking about Personal Stuffs:
   
-    
-  </div>
+ - 🛠 &nbsp; I’m currently working with Java, Python, C#, <br /> Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/robinhosz/robinhosz/).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/robinhosz/robinhosz/)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: joserobsonsiqueira23@hotmail.com
+
   
-  ## 🤯 Tecnologias que conheço no momento.
+## Technologies I know at the moment:
 <p align="left">
   <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Discord.js-000000?style=flat-square&logo=Discord" /> <br />
   <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br/>
   <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> 
   <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" \>
@@ -41,3 +41,19 @@
   <img src="https://img.shields.io/badge/%20-Git-000000?style=flat-square&logo=Git" /> <br />
 </p>
 
+ ### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robinhosz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinhosz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=robinhosz&hide_border=true" />
+</details>
