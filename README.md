@@ -1,25 +1,25 @@
 
-## Hey 👋, I'm [Robinhosz!](https://github.com/robinhosz/)
+ ## Hey <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>  I'm [Robinhosz!](https://github.com/robinhosz/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fireesz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/robinhosz/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/#)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=robinhosz.robinhosz&style=flat-square&color=0088cc)
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-  
- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently study Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
  
- ## Talking about Personal Stuffs:
-  
- - 🛠 &nbsp; I’m currently working with Java, Python, C#, <br /> Mongodb, Javascript, etc.
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Talking about Personal Stuffs:
+ 
+- 🛠 &nbsp; I’m currently working with Java, Python, C#, <br /> Mongodb, Javascript, etc.           
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/robinhosz/robinhosz/).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/robinhosz?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/robinhosz/robinhosz/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: joserobsonsiqueira23@hotmail.com
 
   
-## Technologies I know at the moment:
+## Technologies I know at the moment ⚡
 <p align="left">
   <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Discord.js-000000?style=flat-square&logo=Discord" /> <br />
