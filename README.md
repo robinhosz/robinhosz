@@ -1,8 +1,8 @@
 
  ## Hey <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>  I'm [Robinhosz!](https://github.com/robinhosz/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fireesz)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/robinhosz/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/#)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/robzin12/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0088cc?style=flat-square&logo=Linkedin&logoColor=white)](https://t.me/#)
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=robinhosz.robinhosz&style=flat-square&color=0088cc)
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently study Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
