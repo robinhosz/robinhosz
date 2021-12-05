@@ -14,7 +14,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I’m currently working with Java, Python, C#, <br /> Mongodb, Javascript, etc.           
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/robinhosz?tab=repositories).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/robinhosz/robinhosz/)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://portfoliojrsz.herokuapp.com/#contato)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: joserobsonsiqueira23@hotmail.com
 
