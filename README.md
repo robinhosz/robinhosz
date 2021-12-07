@@ -14,7 +14,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I’m currently working with Java, Python, C#, <br /> Mongodb, Javascript, etc.           
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/robinhosz?tab=repositories).
-- 💬 &nbsp; Ask me about anything [here]<a href="https://www.freecodecamp.org" target="_blank">Portfolio</a>! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://portfoliojrsz.herokuapp.com/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: joserobsonsiqueira23@hotmail.com
 
@@ -24,7 +24,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Discord.js-000000?style=flat-square&logo=Discord" /> <br />
   <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> 
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow" /> 
   <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br/>
   <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> 
   <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" \>
