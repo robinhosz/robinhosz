@@ -57,3 +57,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=robinhosz&hide_border=true" />
 </details>
+
+
+<h2> 🏆 Github Trophy </h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=robinhosz&theme=onedark)](https://github.com/robinhosz/github-profile-trophy)
