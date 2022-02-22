@@ -61,4 +61,5 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <h2> 🏆 Github Trophy </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=robinhosz&theme=onedark)](https://github.com/robinhosz/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
