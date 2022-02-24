@@ -5,8 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0088cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-robson-52b0bb208/)
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=robinhosz.robinhosz&style=flat-square&color=0088cc)
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently study Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B30A0A&lines=+Hi+guys!;+Welcome+to+my+github+profile!;I'm+a+computer+science+student.;My+favorite+language+is+java+%E2%98%95)](https://git.io/typing-svg)
 <img align="right" height="250" width="300" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
  
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Talking about Personal Stuffs:
