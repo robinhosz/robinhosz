@@ -24,20 +24,24 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Discord.js-000000?style=flat-square&logo=Discord" /> <br />
   <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> 
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow" /> 
-  <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br/>
+  <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow" /> <br/>
   <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> 
   <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" \>
   <img src="https://img.shields.io/badge/%20-Flask-000000?style=flat-square&logo=Flask" /> <br />
   <img src="https://img.shields.io/badge/%20-C++-000000?style=flat-square&logo=C%2B%2B" /> <br />
   <img src="https://img.shields.io/badge/%20-C%23-000000?style=flat-square&logo=C%20Sharp" /> <br /> 
-  <img src="https://img.shields.io/badge/%20-Java 💛-000000?style=flat-square&logo=Java" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Java 💛-000000?style=flat-square&logo=Java" /> 
+  <img src="https://img.shields.io/badge/%20-Spring Boot-000000?style=flat-square&logo=Spring%20Boot" />
+  <img src="https://img.shields.io/badge/%20-Maven-000000?style=flat-square&logo=Apache%20Maven" /> 
+  <img src="https://img.shields.io/badge/%20-Gradle-000000?style=flat-square&logo=Gradle" /> 
   <img src="https://img.shields.io/badge/%20-JDA-000000?style=flat-square&logo=Discord" /> <br />
-  <img src="https://img.shields.io/badge/%20-Spring Boot-000000?style=flat-square&logo=Spring%20Boot" /> <br />
-  <img src="https://img.shields.io/badge/%20-Maven-000000?style=flat-square&logo=Apache%20Maven" /> <br /> 
-  <img src="https://img.shields.io/badge/%20-Gradle-000000?style=flat-square&logo=Gradle" /> <br /> 
-  <img src="https://img.shields.io/badge/%20-MongoDB-000000?style=flat-square&logo=MongoDB" /> <br />
-  <img src="https://img.shields.io/badge/%20-MySQL-000000?style=flat-square&logo=MySQL" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-MongoDB-000000?style=flat-square&logo=MongoDB" /> 
+  <img src="https://img.shields.io/badge/%20-MySQL-000000?style=flat-square&logo=MySQL" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/> <br />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-000000.svg?&style=flat-square&logo=kubernetes&logoColor=white"/> <br />
   <img src="https://img.shields.io/badge/%20-Git-000000?style=flat-square&logo=Git" /> <br />
 </p>
 
