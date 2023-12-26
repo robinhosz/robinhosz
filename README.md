@@ -16,6 +16,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://portfoliojrsz.herokuapp.com/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: joserobsonsiqueira23@hotmail.com
+- 💭 &nbsp; I do some articles on [Medium](https://medium.com/@joserobsonsiqueira23).
 
   
 ## Technologies I know at the moment ⚡
