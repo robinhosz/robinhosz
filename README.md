@@ -10,10 +10,10 @@
  
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Talking about Personal Stuffs:
  
-- 🛠 &nbsp; I’m currently working with Java, Python, C#, <br /> Mongodb, Javascript, etc.           
+- 🛠 &nbsp; I’m currently working with Java, Spring Boot, Quarkus, <br /> Angular etc.           
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/robinhosz?tab=repositories).
-- 💬 &nbsp; Ask me about anything [here](https://portfoliojrsz.herokuapp.com/)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://jrobsonportfolio.onrender.com/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: joserobsonsiqueira23@hotmail.com
 - 💭 &nbsp; I do some articles on [Medium](https://medium.com/@joserobsonsiqueira23).
@@ -35,13 +35,26 @@
   <img src="https://img.shields.io/badge/%20-Spring Boot-000000?style=flat-square&logo=Spring%20Boot" />
   <img src="https://img.shields.io/badge/%20-Maven-000000?style=flat-square&logo=Apache%20Maven" /> 
   <img src="https://img.shields.io/badge/%20-Gradle-000000?style=flat-square&logo=Gradle" /> 
+  <img src="https://img.shields.io/badge/%20-JUnit-000000?style=flat-square&logo=JUnit" />
+  <img src="https://img.shields.io/badge/%20-Mockito-000000?style=flat-square&logo=Mockito" />
+  <img src="https://img.shields.io/badge/%20-RestAssured-000000?style=flat-square&logo=RestAssured" />
   <img src="https://img.shields.io/badge/%20-JDA-000000?style=flat-square&logo=Discord" /> <br />
   <img src="https://img.shields.io/badge/%20-MongoDB-000000?style=flat-square&logo=MongoDB" /> 
+  <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=Redis&logoColor=white"/> 
   <img src="https://img.shields.io/badge/%20-MySQL-000000?style=flat-square&logo=MySQL" /> 
+  <img src="https://img.shields.io/badge/%20-MariaDB-000000?style=flat-square&logo=MariaDB" /> 
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/> <br />
   <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-000000.svg?&style=flat-square&logo=kubernetes&logoColor=white"/> <br />
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TravisCI-000000?style=flat-square&logo=TravisCI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenShift-000000.svg?&style=flat-square&logo=OpenShift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bamboo-000000.svg?&style=flat-square&logo=Bamboo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sonarqube-000000.svg?&style=flat-square&logo=Sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-000000.svg?&style=flat-square&logo=kubernetes&logoColor=white"/> <br />
+  <img src="https://img.shields.io/badge/%20-GitLab-000000?style=flat-square&logo=GitLab" />
+  <img src="https://img.shields.io/badge/%20-Github-000000?style=flat-square&logo=Github" />
+  <img src="https://img.shields.io/badge/%20-Gitbucket-000000?style=flat-square&logo=Gitbucket" />
   <img src="https://img.shields.io/badge/%20-Git-000000?style=flat-square&logo=Git" /> <br />
 </p>
 
